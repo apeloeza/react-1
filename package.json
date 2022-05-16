@@ -2,7 +2,7 @@
   "name": "holiday-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/apeloeza/react-1",
+  "homepage": "https://apeloeza.github.io/react-1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
